@@ -1,2 +1,2 @@
-# tiger-game
+# Tiger-game
 Introduction to Algorithms 3344 Group Project
